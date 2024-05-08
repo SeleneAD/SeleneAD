@@ -3,7 +3,7 @@
 
 <body>
     <header>
-        <h1>Hello Welcome to my profile (❁´◡`❁)</h1>
+        <h1 style="text-align: center;">Hello Welcome to my profile (❁´◡`❁)</h1>
         <h2>About me:</h2>
         <p>
             I am a Full Stack developer with a strong background in modern web application development. My passion and
