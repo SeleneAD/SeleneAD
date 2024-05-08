@@ -18,11 +18,11 @@
             that allow me to innovate and create cutting-edge technology solutions.
         </p>
     </header>
-
+a
     <div class="col-sm-4 objetfitcover">
-        <img style="height: 250px;" src="holamundo.gif" alt="Foto de presentación">
+        <img src="holamundo.gif" alt="Foto de presentación">
     </div>
-
+a
     <h2>Technical Skills:</h2>
     <ul>
         <li>Programming Languages: Java, Typescript, Javascript.</li>
