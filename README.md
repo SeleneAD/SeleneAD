@@ -1,5 +1,6 @@
 <header>
   <h1>Hi there 👋</h1>
+  <img src="When you're trying to learn to code but your cat is more interested in the keyboard_.jpeg">
 </header>
 
 <!--
