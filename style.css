@@ -1,0 +1,21 @@
+body {
+    width: 650px;
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    text-align: justify;
+}
+
+.objetfitcover>img {
+    width: 650px;
+    height: 300px;
+    object-fit: cover;
+}
+
+ul {
+    list-style-type: "❁";
+}
