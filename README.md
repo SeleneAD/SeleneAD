@@ -1,5 +1,6 @@
 <header>
   <h1>Hi there 👋</h1>
+  <hr>
 </header>
 
 <!--
