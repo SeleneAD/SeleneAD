@@ -13,7 +13,7 @@
             that allow me to innovate and create cutting-edge technology solutions.
         </p>
     </header>
-    <img style="width: 950px; height: 400px; object-fit: cover;" src="holamundo.gif" alt="Foto de presentación">
+    <img style="width: 950px; height: 600px; object-fit: cover;" src="holamundo.gif" alt="Foto de presentación">
     <h2>Technical Skills:</h2>
     <ul>
         <li>Programming Languages: Java, Typescript, Javascript.</li>
