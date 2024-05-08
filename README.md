@@ -1,15 +1,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="style.css">
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-
-<style>
-    .objetfitcover>img {
-        width: 650px;
-        height: 300px;
-        object-fit: cover;
-    }
-</style>
 
 <body>
     <header>
@@ -23,8 +14,8 @@
             that allow me to innovate and create cutting-edge technology solutions.
         </p>
     </header>
-    <div class="col-sm-4 objetfitcover">
-        <img style="height: 250px;" src="holamundo.gif" alt="Foto de presentación">
+    <div>
+        <img style="width: 650px; height: 300px; object-fit: cover;" src="holamundo.gif" alt="Foto de presentación">
     </div>
     <h2>Technical Skills:</h2>
     <ul>
