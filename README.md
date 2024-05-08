@@ -3,6 +3,13 @@
 <link rel="stylesheet" href="style.css">
 
 <body>
+    <style>
+        .objetfitcover>img {
+            width: 650px;
+            height: 300px;
+            object-fit: cover;
+        }
+    </style>
     <header>
         <h1>Hello Welcome to my profile (❁´◡`❁)</h1>
         <h2>About me:</h2>
@@ -14,11 +21,9 @@
             that allow me to innovate and create cutting-edge technology solutions.
         </p>
     </header>
-    <br>
     <div class="col-sm-4 objetfitcover">
-        <img style="width: 650px; height: 300px; object-fit: cover;" src="holamundo.gif" alt="Foto de presentación">
+        <img style="height: 250px;" src="holamundo.gif" alt="Foto de presentación">
     </div>
-    <br>
     <h2>Technical Skills:</h2>
     <ul>
         <li>Programming Languages: Java, Typescript, Javascript.</li>
