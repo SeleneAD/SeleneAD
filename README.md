@@ -16,7 +16,7 @@
     </header>
     <br>
     <div class="col-sm-4 objetfitcover">
-        <img style="height: 250px;" src="holamundo.gif" alt="Foto de presentación">
+        <img style="width: 650px; height: 300px; object-fit: cover;" src="holamundo.gif" alt="Foto de presentación">
     </div>
     <br>
     <h2>Technical Skills:</h2>
