@@ -1,6 +1,5 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="style.css">
 
 <body>
     <header>
@@ -14,9 +13,7 @@
             that allow me to innovate and create cutting-edge technology solutions.
         </p>
     </header>
-    <div>
-        <img src="holamundo.gif" alt="Foto de presentación">
-    </div>
+    <img style="width: 650px; height: 300px; object-fit: cover;" src="holamundo.gif" alt="Foto de presentación">
     <h2>Technical Skills:</h2>
     <ul>
         <li>Programming Languages: Java, Typescript, Javascript.</li>
