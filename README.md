@@ -1,61 +1,33 @@
-**Perfil de GitHub:**
+<link rel="stylesheet" href="style.css">
 
----
+<body>
+    <header>
+        <h1>Hello Welcome to my profile (❁´◡`❁)</h1>
+        <h2>About me:</h2>
+        <p>
+            I am a Full Stack developer with a strong background in modern web application development. My passion and
+            main
+            focus are on Java technologies, Angular and microservices architecture. I am constantly looking for
+            challenges
+            that allow me to innovate and create cutting-edge technology solutions.
+        </p>
+    </header>
 
-### Nombre: [Tu Nombre]
-#### Especialización: Desarrollador Full Stack
+    <div class="col-sm-4 objetfitcover">
+        <img style="height: 250px;" src="holamundo.gif" alt="Foto de presentación">
+    </div>
 
----
-
-#### Acerca de Mí:
-
-Soy un desarrollador Full Stack con una sólida experiencia en el desarrollo de aplicaciones web modernas. Mi pasión y enfoque principal se centran en las tecnologías Java, Angular y la arquitectura de microservicios. Con un profundo conocimiento en estas áreas, busco constantemente desafíos que me permitan innovar y crear soluciones tecnológicas de vanguardia.
-
----
-
-#### Principales Habilidades:
-
-- **Lenguajes de Programación:** Java, TypeScript
-- **Framework y Tecnologías:**
-  - Java: Spring Framework, Spring Boot
-  - Frontend: Angular, HTML5, CSS3
-  - Arquitectura: Microservicios, RESTful APIs
-- **Bases de Datos:** MySQL, MongoDB
-- **Herramientas de Desarrollo:** Git, Maven, IntelliJ IDEA, Visual Studio Code
-- **Metodologías de Desarrollo:** Scrum, Agile
-
----
-
-#### Proyectos Destacados:
-
-1. **Sistema de Gestión de Usuarios (Java, Spring Boot, Angular):**
-   - Lideré el desarrollo de un sistema de gestión de usuarios desde cero utilizando Spring Boot en el backend y Angular en el frontend. Implementé una arquitectura de microservicios para garantizar la escalabilidad y la modularidad del sistema.
-
-2. **Plataforma de E-learning (Java, Spring Framework):**
-   - Colaboré en el desarrollo de una plataforma de aprendizaje en línea utilizando Java con el framework Spring. Diseñé y desarrollé microservicios para la gestión de cursos, usuarios y pagos, asegurando un rendimiento óptimo y una alta disponibilidad.
-
----
-
-#### Experiencia Laboral:
-
-- **Desarrollador Full Stack en [Nombre de la Empresa]:**
-  - Desarrollé y mantuve aplicaciones web utilizando Java, Angular y arquitecturas de microservicios.
-  - Participé en la planificación y diseño de sistemas, aplicando buenas prácticas de desarrollo y asegurando la calidad del código.
-
----
-
-#### Educación:
-
-- **Licenciatura en Ingeniería Informática, [Nombre de la Universidad], Año de Graduación**
-
----
-
-#### Contacto:
-
-- **Correo Electrónico:** [Tu Correo Electrónico]
-- **LinkedIn:** [Tu Perfil de LinkedIn]
-- **Sitio Web/Portafolio:** [Enlace a tu Sitio Web o Portafolio]
-
----
-
-¡Gracias por revisar mi perfil de GitHub! Siempre estoy buscando oportunidades para aplicar mis habilidades técnicas y contribuir a proyectos innovadores. No dudes en contactarme si tienes alguna pregunta o proyecto interesante en mente.
+    <h2>Technical Skills:</h2>
+    <ul>
+        <li>Programming Languages: Java, Typescript, Javascript.</li>
+        <li>Frameworks and Technologies:</li>
+        <ul>
+            <li>Java: Spring Framework, Spring Boot.</li>
+            <li>Frontend: Angular, HTML5, CSS3.</li>
+            <li>Architecture: Microservicios, RESTful APIs.</li>
+        </ul>
+        <li>DataBases: MySQL, SQL Server, PostgreSQL.</li>
+        <li>Development Tools: Git, Maven, IntelliJ IDEA, Visual Studio Code.</li>
+        <li>Development Methodologies: Scrum, Agile, Cascade.</li>
+    </ul>
+</body>
