@@ -15,7 +15,7 @@
         </p>
     </header>
     <div>
-        <img style="width: 650px; height: 300px; object-fit: cover;" src="holamundo.gif" alt="Foto de presentación">
+        <img src="holamundo.gif" alt="Foto de presentación">
     </div>
     <h2>Technical Skills:</h2>
     <ul>
